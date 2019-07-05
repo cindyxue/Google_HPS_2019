@@ -4,7 +4,7 @@
 #define PIN_20_MIN_LED  3
 #define PIN_30_MIN_LED  4
 #define PIN_40_MIN_LED  15
-#define PIN_50_MIN_LED  8
+#define PIN_50_MIN_LED  14
 #define PIN_60_MIN_LED  6
 
 #define LOOP_PERIOD     200
